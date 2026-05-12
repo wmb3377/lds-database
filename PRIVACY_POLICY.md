@@ -1,9 +1,10 @@
 # Privacy Policy
 
-**App:** LDS Database  
+**App:** LDS Database (displayed as "Scriptures")  
 **Developer:** Willard Barlow  
-**Effective Date:** May 11, 2026  
-**Last Updated:** May 11, 2026
+**Location:** Arizona, United States  
+**Effective Date:** May 12, 2026  
+**Last Updated:** May 12, 2026
 
 ---
 
@@ -72,6 +73,12 @@ Under the General Data Protection Regulation (GDPR), users in the European Econo
 ## California Online Privacy Protection Act (CalOPPA)
 
 In compliance with CalOPPA, we state the following: this app does not collect personally identifiable information. Users may use the app anonymously. This Privacy Policy is accessible from the app's public GitHub repository. We will notify users of any material changes to this policy by updating the "Last Updated" date above.
+
+---
+
+## External Links
+
+The app contains a "Contact Us" link that opens an external website. Once you leave the app, we have no control over and assume no responsibility for the content or privacy practices of any external site or service. We encourage you to review the privacy policy of any site you visit.
 
 ---
 
